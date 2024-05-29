@@ -1,0 +1,14 @@
+C:\Users\Benedict\source\repos\AnteApi\bin\Debug\CsharpApi.exe.config
+C:\Users\Benedict\source\repos\AnteApi\bin\Debug\CsharpApi.exe
+C:\Users\Benedict\source\repos\AnteApi\bin\Debug\CsharpApi.pdb
+C:\Users\Benedict\source\repos\AnteApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benedict\source\repos\AnteApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.csproj.AssemblyReference.cache
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.Form1.resources
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.Properties.Resources.resources
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.csproj.GenerateResource.cache
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.csproj.CoreCompileInputs.cache
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.csproj.Up2Date
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.exe
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.pdb
+C:\Users\Benedict\source\repos\AnteApi\obj\Debug\CsharpApi.Form2.resources
